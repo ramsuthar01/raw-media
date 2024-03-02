@@ -1,0 +1,8 @@
+.bgcdiv{
+    background-image: url("../../public/images/Business\ Consulting.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-top: 85px;
+}

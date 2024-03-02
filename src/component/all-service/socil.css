@@ -1,0 +1,104 @@
+.socildiv{
+   
+    background-image: url("../../../public//images/Importance-Of-Digital-Marketing-For-The-Manufacturing-Industry-12.webp");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 600px;
+margin-top: 85px;
+
+
+}
+.socialdiv1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.socialdiv1-p{
+    width: 50%;
+    height: 100%;
+    font-size: 1vw;
+    font-weight: 400;
+    margin-left: 20px;
+    
+}
+.socialdiv1-img{
+    width: 50%;
+    height: 50%;
+}
+
+.socialdiv2{
+    background-color: azure;
+    width: 100%;
+    height: 100%;
+}
+/* ADVERTISERS SERVICE CARD */
+ 
+  .social-sec-icon {
+    position: relative;
+    display: inline-block;
+    padding: 0;
+    margin: 0 auto;
+  }
+  
+  .social-sec-icon::before {
+    content: "";
+    position: absolute;
+    height: 1px;
+    left: -70px;
+    margin-top: -5.5px;
+    top: 60%;
+    background: #333333;
+    width: 50px;
+  }
+  
+  .social-sec-icon::after {
+    content: "";
+    position: absolute;
+    height: 1px;
+    right: -70px;
+    margin-top: -5.5px;
+    top: 60%;
+    background: #333;
+    width: 50px;
+  }
+  
+ 
+ 
+
+ 
+  .advertisers-service-sec .social-service-card {
+    width: 100%;
+    height: 100%;
+    padding: 2em 1.5em;
+    border-radius: 5px;
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    transition: 0.5s;
+    position: relative;
+    z-index: 2;
+    overflow: hidden;
+    background: #fff;
+  }
+  
+
+  
+ 
+  
+  .advertisers-service-sec p {
+    color: #575a7b;
+    font-size: 15px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+    z-index: 3;
+  }
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+  

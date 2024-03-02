@@ -1,0 +1,75 @@
+.seodiv{
+    background-image: url("../../../public/images/seo-human-interest-header.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-top: 85px;
+    display: flex;
+    align-items: center;
+ 
+
+}
+.seodiv h1{
+    font-weight: bolder;
+    color: black;
+}
+.seodiv1{
+    font-size: 50px;
+font-weight: 700;
+text-shadow: 1px 1px 6px rgba(0,0,0,.5);;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 20px;
+margin: 40px;
+}
+.seodiv2{
+    margin: 20px;
+}
+.ist{
+margin-top: 90px;
+}
+.ist1 p::first-letter{
+    color: #ff0000;
+    font-size:30px;
+}
+.seodiv3 p{
+margin-bottom: 20px;
+margin-left: 20px;
+}
+.seodiv4 li{
+  list-style-type:"👉";
+  margin-bottom: 5px;
+}
+.seodiv3{
+    margin-top: 50px;
+    
+}
+.seodiv4 div{
+    margin: 40px;
+    background-color: burlywood;
+}
+.seodiv4{
+    background-color: aliceblue;
+}
+.seodiv5{
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.seodiv5 div{
+    background-color:burlywood;
+    margin: 30px;
+}
+.seodiv4  h1{
+    text-align: center;
+}
+
+ul{
+    padding-left: 0;
+}
+.seodiv5 h1{
+    text-align: center;
+}

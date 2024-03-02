@@ -1,0 +1,67 @@
+.ppcdiv1{
+    background-image: url("../../../public/images/What-is-Pay-Per-Click-Advertising-and-how-it-Increases.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin-top: 75px;
+}
+.ppc-div{
+height: 100%;
+width: 100%;
+display: flex;
+background-color:moccasin;
+
+}
+.ppc-div1{
+    width: 50%;
+    height: 50%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.ppc-div2{
+    width: 50%;
+}
+.ppc-pdiv{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ppc-div3{
+margin-top: 40px;
+}
+.card {
+    box-sizing: border-box;
+    width: 190px;
+    height: 254px;
+    background: rgba(217, 217, 217, 0.58);
+    border: 1px solid white;
+    /* box-shadow: 7px 9px 30px rgba(0, 0, 0, 0.22); */
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    font-weight: bolder;
+    color: black;
+margin: 1vw 4vw ;
+  }
+  
+  .card:hover {
+    border: 1px solid black;
+    transform: scale(1.05);
+    background-color:pink;
+    
+  }
+  
+  .card:active {
+    transform: scale(0.95) rotateZ(1.7deg);
+  }
+  .bnft_online_outer {
+    padding: 100px 0 85px;
+    position: relative;
+    z-index: 1;
+}

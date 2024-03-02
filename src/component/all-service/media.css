@@ -1,0 +1,74 @@
+.medimg{
+    background-image: url("../../../public/images/blog-banner-SM-marketing.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    margin-top: 85px;
+    
+}
+
+.medimg h1{
+    font-weight: bolder;
+    color: white;
+    
+}
+.meddiv2 h1{
+font-size: 50px;
+font-weight: 700;
+text-shadow: 1px 1px 6px rgba(0,0,0,.5);;
+}
+.meddiv2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    
+}
+.yes{
+    display: flex;
+    align-items: center;
+}
+.yes p::first-letter{
+    color: #ff0000;
+    font-size:30px;
+}
+.yes1{
+    background-color: #f0f4f5;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.yes-div{
+    margin: 25px;
+    background-color:cyan;
+    height: 100px;
+    width: 300px; 
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    text-align: center;
+    border-radius: 15px;
+}
+.yes-div h3{
+    color: brown;
+}
+.yes2{
+    background-color: #f0f4f5;
+
+}
+.yes2-div{
+    background-color: rgb(221, 235, 235);
+   margin: 45px;
+    width: 350px;
+   
+    
+}
+.yes2-div h3{
+    text-align: center;
+    margin-top: 10px;
+}
