@@ -1,128 +1,125 @@
-.ab{
-    background-image: url("c:\Users\ram\Downloads\about.jpg");
-    height: 500px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: white;
-    display: flex;
-    background-position: center;
-    margin-top: 85px;
-    align-items: center;
+.ab {
+  background-image: url();
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  display: flex;
+  background-position: center;
+  margin-top: 85px;
+  align-items: center;
 }
-.ab-botten{
-    color: #fff;
-    background-color: #f72f20;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-weight: 500;
-    font-size: 17px; 
-height: 50px;
-border-radius: 15px;
-
+.ab-botten {
+  color: #fff;
+  background-color: #f72f20;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 17px;
+  height: 50px;
+  border-radius: 15px;
 }
-.ab-cont{
-background-image: url("c:\Users\ram\Downloads\bf-abt-story2.png");
-color: white;
-margin:40px;
-border-radius: 10px 30px;
+.ab-cont {
+  background-image: url();
+  color: white;
+  margin: 40px;
+  border-radius: 10px 30px;
 }
-.goal{
-    margin:40px;
-    background-image: url("c:\Users\ram\Downloads\240_F_359690623_9v5YHNpMraznPWmvDitXMs7EmBs20gv0.jpg");
-width: 100%;
-display: flex;
-align-items: center;
-  }
-.goal-div1{
-width: 40%;
-align-items: center;
-
+.goal {
+  margin: 40px;
+  background-image: url();
+  width: 100%;
+  display: flex;
+  align-items: center;
 }
-.goal-div1 p{
-  margin: 1vw 1.5vw;
-  font-size: 1vw;
-}
-.goal-div2{
+.goal-div1 {
   width: 40%;
   align-items: center;
 }
-.goal-div2 p{
+.goal-div1 p {
+  margin: 1vw 1.5vw;
+  font-size: 1vw;
+}
+.goal-div2 {
+  width: 40%;
+  align-items: center;
+}
+.goal-div2 p {
   margin: 1vw 3vw;
   font-size: 1vw;
 }
 
-@media (max-width:600px) {
-  .goal-div1{
+@media (max-width: 600px) {
+  .goal-div1 {
     width: 100%;
   }
-  .goal-div2{
+  .goal-div2 {
     width: 100%;
   }
 }
-p{
-    font-weight: 500;
+p {
+  font-weight: 500;
 }
-.col{
-    border: solid 2px;
+.col {
+  border: solid 2px;
   border-radius: 40px 0px;
-  background-color:#071230;;
+  background-color: #071230;
   color: white;
   display: flex;
   align-items: center;
   margin-top: 10px;
-  
 }
-.col:hover{
-  background-color:  #f72f20;;
+.col:hover {
+  background-color: #f72f20;
   cursor: pointer;
 }
-.chose{
-    margin: 40px;
-    margin-bottom: 90px;
-    background-image: url("c:\Users\ram\Downloads\back1.jpg");
+.chose {
+  margin: 40px;
+  margin-bottom: 90px;
+  background-image: url();
 }
 
 .about-card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    max-width: 300px;
-    margin: 30px;
-    margin-left: 80px;
-    text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: 30px;
+  margin-left: 80px;
+  text-align: center;
   color: white;
-  }
-  
-  .title {
-    color: grey;
-    font-size: 18px;
-  }
-  
-  .abut {
-    border: none;
-    outline: 0;
-    display: inline-block;
-    padding: 8px;
-    color: white;
-    background-color: #000;
-    text-align: center;
-    cursor: pointer;
-    width: 100%;
-    font-size: 18px;
-  }
-  
-  a {
-    text-decoration: none;
-    font-size: 22px;
-    color: black;
-  }
-  
-  button:hover, a:hover {
-    opacity: 0.7;
-  }
-  .profile{
-    display: flex;
-    align-items: center;
-    background-color: #071230;
-    margin: 40px;
-    border-radius: 40px 0px;
-  }
-  
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.abut {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover,
+a:hover {
+  opacity: 0.7;
+}
+.profile {
+  display: flex;
+  align-items: center;
+  background-color: #071230;
+  margin: 40px;
+  border-radius: 40px 0px;
+}
